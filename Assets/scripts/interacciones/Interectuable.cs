@@ -5,5 +5,7 @@ public interface IInterectuable
 {
     string interaccion {get;}
     void interactuar();
+    //prueba github
+    
     
  }
